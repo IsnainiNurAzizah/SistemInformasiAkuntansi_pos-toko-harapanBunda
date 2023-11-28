@@ -1,11 +1,11 @@
 # Deskripsi Aplikasi
 Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP &amp; MYSQL.
 # Donasi :  https://saweria.co/fauzan1892
-Source Blog : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
+*Source Blog : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
 
-Beli Versi Terbaru nya disini : https://www.codekop.com/products/source-code-aplikasi-pos-penjualan-barang-kasir-dengan-php-mysql-3.html
+*Beli Versi Terbaru nya disini : https://www.codekop.com/products/source-code-aplikasi-pos-penjualan-barang-kasir-dengan-php-mysql-3.html
 
-Beli Aplikasi POS Cafe Resto : https://www.codekop.com/products/source-code-aplikasi-pos-kasir-cafe-resto-berbasis-website-4.html
+*Beli Aplikasi POS Cafe Resto : https://www.codekop.com/products/source-code-aplikasi-pos-kasir-cafe-resto-berbasis-website-4.html
 # Setting Koneksi PHP
 setting koneksi di config.php dan ganti username, password dan dbname nya
 # Penggunaan Login
