@@ -6,6 +6,7 @@ Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP &amp; MYSQL
 *Beli Versi Terbaru nya disini : https://www.codekop.com/products/source-code-aplikasi-pos-penjualan-barang-kasir-dengan-php-mysql-3.html
 
 *Beli Aplikasi POS Cafe Resto : https://www.codekop.com/products/source-code-aplikasi-pos-kasir-cafe-resto-berbasis-website-4.html
+
 # Setting Koneksi PHP
 setting koneksi di config.php dan ganti username, password dan dbname nya
 # Penggunaan Login
@@ -13,6 +14,7 @@ Username : user
 
 Password : user
 * Penggunaan Login untuk single User
+
 # Contoh Program
 1. login
 ![Screenshot 2023-11-27 122252](https://github.com/IsnainiNurAzizah/pos-toko-harapan1/assets/151497035/8abdd010-c698-4e79-9539-d847c82c0a35)
@@ -32,5 +34,12 @@ Password : user
 ![Screenshot 2023-11-27 103047](https://github.com/IsnainiNurAzizah/pos-toko-harapan1/assets/151497035/cec6a869-6d93-4fa0-9b4e-8b622e39eafb)
 9. Pengaturan User
 ![Screenshot 2023-11-27 102954](https://github.com/IsnainiNurAzizah/pos-toko-harapan1/assets/151497035/4953705d-2cbd-48c1-a5aa-4100bf753216)
-10. PHPMyAdmin
+
+# PHPMyAdmin
 ![Screenshot 2023-11-27 121124](https://github.com/IsnainiNurAzizah/pos-toko-harapan1/assets/151497035/c2b09074-3e12-46af-9f4c-7e46a135db33)
+
+# FlowChart 
+![SIA DIAGRAM KASIR drawio](https://github.com/IsnainiNurAzizah/SistemInformasiAkuntansi_pos-toko-harapanBunda/assets/151497035/0e0aa0f7-c706-44fd-b2c9-6d78b6f7db9f)
+
+
+
